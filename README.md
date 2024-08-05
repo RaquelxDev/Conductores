@@ -1,7 +1,7 @@
 Estudiante:
 Karla Raquel Pérez Espino
 
-# ConductoresProject
+# Proyecto conductores
 
 Este proyecto es una demostración del uso de la herencia en Java. 
 El programa define una superclase `Conductor` y dos subclases `ConductorDeCoche` y `ConductorDeMoto`. 
