@@ -12,17 +12,11 @@ para mostrar detalles adicionales según el tipo de conductor.
 
 ConductoresProject/
 
-├── src/
-
-│ ├── Main.java
-
-│ └── conductores/
-
-│ ├── Conductor.java
-
-│ ├── ConductorDeCoche.java
-
-│ └── ConductorDeMoto.java
-
+├── src/ 
+│ ├── Main.java 
+│ └── conductores/ 
+│ ├── Conductor.java 
+│ ├── ConductorDeCoche.java 
+│ └── ConductorDeMoto.java 
 └── README.md
 
