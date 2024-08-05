@@ -9,9 +9,8 @@ Cada clase tiene atributos y métodos específicos, y se sobrescribe el método 
 para mostrar detalles adicionales según el tipo de conductor.
 
 ## Estructura del Proyecto
-
-ConductoresProject/
-
+```
+ConductoresProject/ 
 ├── src/ 
 │ ├── Main.java 
 │ └── conductores/ 
@@ -19,4 +18,4 @@ ConductoresProject/
 │ ├── ConductorDeCoche.java 
 │ └── ConductorDeMoto.java 
 └── README.md
-
+```
